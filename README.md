@@ -1,2 +1,1 @@
-# WebGisNT_DauQuangLoc_59131309
-WEBGIS PHỤC VỤ TÌM KIẾM THÔNG TIN NHÀ TRỌ THÀNH PHỐ NHA TRANG
+# webgisdemo php
